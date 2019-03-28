@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/untitled5.dir/listaduplasent.c.o  -o untitled5 
